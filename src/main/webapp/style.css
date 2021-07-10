@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+#banner{
+    position: relative;
+    padding-top: 3%;
+ padding-bottom: 3%;
+ background-color:rgba(135,206,235 ,1 );
+ max-width: 100%;
+ font-family: Georgia, serif;
+  font-weight:bold;
+}
+#sub{
+	margin-top: 0%;
+	margin-bottom: 7%;
+	background-color: rgba(211,211,211, 0.8);
+}
+#banner1{
+ background: url(img/bank1.jpg) no-repeat center center;
+ background-size: cover;
+}
+footer{
+	margin-top:0%;
+    padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom:0;
+ width:100%;
+ position:relative;
+}
